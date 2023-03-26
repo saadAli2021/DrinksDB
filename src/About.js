@@ -8,7 +8,7 @@ const About = () => {
       </div>
       <article className="contentArticle">
         <p className=" text">
-          Welcome to our cake shop, where the sugar high never ends and the
+          Welcome to our drinks shop, where the sugar high never ends and the
           frosting flows like a river of dreams. Our cakes are so good, they'll
           make you want to do a happy dance while simultaneously hugging the
           baker. We believe that cake is not just a dessert, it's a way of life.
